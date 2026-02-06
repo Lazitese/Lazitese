@@ -1,197 +1,109 @@
-<div align="center">
+<div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Alazar+Tesema;Full-stack+Engineer+%7C+Founder;Builder-first+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&pause=1000&color=3B82F6&width=600&lines=Alazar+Tesema;Full-stack+Engineer+%7C+Founder;Builder-first+Problem+Solver" />
+
+  <p>
+     &nbsp;&nbsp; <sub>Production-ready web applications · Clean UI · Scalable systems</sub>
+  </p>
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👨‍💻 About
+Builder-first full-stack engineer focused on turning real problems into clean, usable software. My work centers on production-ready web applications, AI-integrated products, and high-quality user experiences.
+
+I care deeply about clarity, performance, and shipping software that is easy to maintain and evolve.
 
 <br/>
 
-<p align="center">
-  <sub>Production-ready web applications · Clean UI · Scalable systems</sub>
-</p>
-
-</div>
-
----
-
-<table>
-<tr>
-<td>
-
-## About
-
-Builder-first full-stack engineer focused on turning real problems into clean, usable software.
-
-My work centers on production-ready web applications, AI-integrated products, and high-quality user experiences.  
-I care deeply about clarity, performance, and shipping software that is easy to maintain and evolve.
+### 🧠 How I Work
+<blockquote>
+  <b>Builder mindset</b> over buzzwords<br/>
+  <b>Clean, readable</b> code<br/>
+  <b>UI and UX</b> as first-class concerns<br/>
+  <b>Smooth interactions</b> and performance matter<br/>
+  Prefer shipping <b>useful software</b> over over-engineering
+</blockquote>
 
 </td>
-</tr>
-</table>
+<td width="40%" valign="top">
 
----
-
-<table>
-<tr>
-<td>
-
-## Tech Stack
-
+### 🛠 Tech Stack
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,supabase,vercel,githubactions,cloudflare,postgres&theme=dark" />
-
-</div>
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,supabase,vercel,githubactions,cloudflare,postgres&theme=dark&perline=4" />
+  <br/><br/>
   <sub>Tools actively used in production and refined through real-world projects</sub>
-</p>
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br />
+
+### 🚀 Projects
+<sub>A selection of real projects. Descriptions are intentionally concise and factual.</sub>
 
 <table>
-<tr>
-<td>
-
-## Projects
-
-A selection of real projects from this GitHub account.  
-Descriptions are intentionally concise and factual.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <a href="#"><b>Vouchy</b></a> <code>TypeScript</code><br/>
+      <sub>Testimonial collection, management, and embed web application. Personal product focused on simplicity and real usage.</sub>
+    </td>
+    <td width="50%">
+      <a href="#"><b>ReAgents</b></a> <code>TypeScript</code><br/>
+      <sub>Scalable full-stack platform for real estate agents, exploring modern architecture and workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="#"><b>Fidel</b></a> <code>TypeScript</code><br/>
+      <sub>AI-powered Ethiopian education assistant focused on practical learning support.</sub>
+    </td>
+    <td width="50%">
+      <a href="#"><b>Bosphorus Dermatology</b></a> <code>TypeScript</code><br/>
+      <sub>Professional website built for a dermatology practice.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="#"><b>Bego</b></a> <code>TypeScript</code><br/>
+      <sub>Website for the Bego Sitota charitable organization.</sub>
+    </td>
+    <td width="50%">
+      <a href="#"><b>Bego Sitota Management</b></a> <code>JavaScript</code><br/>
+      <sub>Management-focused web application supporting NGO operations.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="#"><b>Women’s Wing</b></a> <code>TypeScript</code><br/>
+      <sub>Internal web system for the Women’s Wing sector of a government organization.</sub>
+    </td>
+    <td width="50%">
+      <a href="#"><b>Youth Wing</b></a> <code>TypeScript</code><br/>
+      <sub>Internal web system for the Youth Wing sector of a government organization.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="#"><b>21day</b></a> <code>TypeScript</code><br/>
+      <sub>Landing page for a 21-day consistency-focused initiative.</sub>
+    </td>
+    <td width="50%">
+      <a href="#"><b>Gotcha Scan</b></a> <code>Private</code><br/>
+      <sub>Private project exploring scanning, analysis workflows, and privacy-focused pages.</sub>
+    </td>
+  </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%">
+<br />
 
-### Vouchy  
-<sub>TypeScript · Public</sub>  
-
-Testimonial collection, management, and embed web application.  
-Personal product focused on simplicity and real usage.
-
-</td>
-<td width="50%">
-
-### ReAgents  
-<sub>TypeScript · Public</sub>  
-
-Scalable full-stack platform for real estate agents, exploring modern architecture and workflows.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### Bego  
-<sub>TypeScript · Public</sub>  
-
-Website for the Bego Sitota charitable organization.
-
-</td>
-<td width="50%">
-
-### Bego Sitota Management  
-<sub>JavaScript · Public</sub>  
-
-Management-focused web application supporting NGO operations.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### Fidel  
-<sub>TypeScript · Public</sub>  
-
-AI-powered Ethiopian education assistant focused on practical learning support.
-
-</td>
-<td width="50%">
-
-### Bosphorus Dermatology  
-<sub>TypeScript · Public</sub>  
-
-Professional website built for a dermatology practice.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### Women’s Wing  
-<sub>TypeScript · Public</sub>  
-
-Internal web system for the Women’s Wing sector of a government organization.
-
-</td>
-<td width="50%">
-
-### Youth Wing  
-<sub>TypeScript · Public</sub>  
-
-Internal web system for the Youth Wing sector of a government organization.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 21day  
-<sub>TypeScript · Public</sub>  
-
-Landing page for a 21-day consistency-focused initiative.
-
-</td>
-<td width="50%">
-
-### Gotcha Scan  
-<sub>TypeScript · Private</sub>  
-
-Private project exploring scanning, analysis workflows, and privacy-focused pages.
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td>
-
-## How I Work
-
-- Builder mindset over buzzwords  
-- Clean, readable code  
-- UI and UX as first-class concerns  
-- Smooth interactions and performance matter  
-- Prefer shipping useful software over over-engineering  
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Clear+code+beats+clever+code" />
-
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6B7280&width=500&lines=Clear+code+beats+clever+code" />
 </div>
