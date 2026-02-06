@@ -1,9 +1,15 @@
 <div align="center">
 
-### Hi, I’m Alazar Tesema
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Hi%2C+I’m+Alazar+Tesema;Full-stack+engineer+%7C+Founder;Builder-first+problem+solver"
+  alt="Typing intro"
+/>
 
-Full-stack engineer · Founder · Indie hacker · Problem-solver  
-I build production-ready web applications with a strong focus on quality, performance, and clarity.
+<br/>
+
+<p align="center">
+  I build production-ready web applications with a strong focus on quality, performance, and clarity.
+</p>
 
 </div>
 
@@ -11,53 +17,95 @@ I build production-ready web applications with a strong focus on quality, perfor
 
 ## About
 
-I’m a builder-first engineer who enjoys turning complex ideas into clean, usable products.
+I’m a builder-first full-stack engineer who enjoys turning real problems into clean, usable software.
 
 My work focuses on:
 - Production-ready web applications
 - AI-integrated products
-- High-quality UI and smooth user experience
-- Systems that are simple to use and practical to maintain
+- High-quality UI and smooth user experiences
+- Practical systems that are easy to maintain and evolve
 
-I care more about **how things work** than how loudly they’re marketed.
+I value correctness, simplicity, and shipping software that actually works.
 
 ---
 
 ## Tech Stack
 
-**Production-ready**
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Vercel
-- GitHub Actions
-- Supabase
-- Cloudflare R2
+<div align="center">
 
-**Learning / improving**
-- PostgreSQL
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,supabase,vercel,githubactions,cloudflare,postgres" />
+
+</div>
+
+<p align="center">
+  Tools I actively use in production and continue to refine through real projects.
+</p>
 
 ---
 
-## Selected Projects
+## Projects
 
-> All projects below are real and built by me.  
-> Details are intentionally minimal and factual.
+> A selection of real projects from this GitHub account.  
+> Descriptions are intentionally concise and factual.
 
-- **Bego Sitota**  
-  Production web application focused on real-world use cases.
+### Bego
+<sub>TypeScript · Public</sub>  
+Website for the Bego Sitota charitable organization.
 
-- **NGO Platform**  
-  Web platform designed to support and automate NGO workflows.
+---
 
-- **Fidel AI**  
-  AI-integrated application built around practical, user-focused features.
+### Bego Sitota Management
+<sub>JavaScript · Public</sub>  
+Management-focused web application supporting NGO operations.
 
-- **ReAgents**  
-  Full-stack product exploring modern workflows and scalable architecture.
+---
 
-(Expanded technical breakdowns live inside the individual repositories.)
+### Vouchy
+<sub>TypeScript · Public</sub>  
+Testimonial collection, management, and embed web application.  
+Personal product project focused on simplicity and real usage.
+
+---
+
+### 21day
+<sub>TypeScript · Public</sub>  
+Landing page for a 21-day consistency-focused initiative.
+
+---
+
+### Women’s Wing
+<sub>TypeScript · Public</sub>  
+Internal web system for the Women’s Wing sector of a government organization.
+
+---
+
+### Fidel
+<sub>TypeScript · Public</sub>  
+An Ethiopian education assistant powered by AI, focused on practical learning support.
+
+---
+
+### Gotcha Scan
+<sub>TypeScript · Private</sub>  
+Private project exploring scanning, analysis workflows, and privacy-focused pages.
+
+---
+
+### ReAgents
+<sub>TypeScript · Public</sub>  
+Full-stack real estate agents platform exploring scalable architecture.
+
+---
+
+### Bosphorus Dermatology
+<sub>TypeScript · Public</sub>  
+Professional website built for a dermatology practice.
+
+---
+
+### Youth Wing
+<sub>TypeScript · Public</sub>  
+Internal web system for the Youth Wing sector of a government organization.
 
 ---
 
@@ -65,17 +113,17 @@ I care more about **how things work** than how loudly they’re marketed.
 
 - Builder mindset over buzzwords
 - Clean, readable code
-- UI and UX matter as much as backend logic
-- Performance and smooth interactions are not optional
-- Prefer shipping useful things over perfect abstractions
+- UI and UX as first-class concerns
+- Smooth interactions and performance matter
+- Prefer shipping useful software over over-engineering
 
 ---
 
-## Collaboration
+<div align="center">
 
-I’m open to high-impact collaborations where:
-- Problems are real
-- Expectations are clear
-- Code quality matters
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Code+should+be+clear+before+it+is+clever"
+  alt="Footer philosophy"
+/>
 
-If a project is interesting, I’m listening.
+</div>
