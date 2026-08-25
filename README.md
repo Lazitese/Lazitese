@@ -14,14 +14,14 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👨‍💻 About
+### About
 Builder-first full-stack engineer focused on turning real problems into clean, usable software. My work centers on production-ready web applications, AI-integrated products, and high-quality user experiences.
 
 I care deeply about clarity, performance, and shipping software that is easy to maintain and evolve.
 
 <br/>
 
-### 🧠 How I Work
+### How I Work
 <blockquote>
   <b>Builder mindset</b> over buzzwords<br/>
   <b>Clean, readable</b> code<br/>
@@ -46,7 +46,7 @@ I care deeply about clarity, performance, and shipping software that is easy to 
 
 <br />
 
-### 🚀 Projects
+### Projects
 <sub>A selection of real projects. Descriptions are intentionally concise and factual.</sub>
 
 <table>
